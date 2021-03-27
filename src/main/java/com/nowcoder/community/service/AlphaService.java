@@ -8,6 +8,9 @@ import org.springframework.stereotype.Service;
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
+/**
+ * @author Hastur
+ */
 @Service
 //@Scope("prototype")
 public class AlphaService {

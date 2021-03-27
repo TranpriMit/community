@@ -9,8 +9,8 @@
         <module name="community" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="community" target="12" />
+    <bytecodeTargetLevel target="11">
+      <module name="community" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
